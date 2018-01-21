@@ -1,0 +1,4 @@
+# Unix swap files
+
+*.swo
+*.swp
